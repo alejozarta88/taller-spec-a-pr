@@ -1,0 +1,13 @@
+FACTURA ELECTRÓNICA DE VENTA No. FE-10234
+Proveedor: Suministros Andinos S.A.S.
+NIT: 900.123.456-7
+Fecha de emisión: 2026-09-15
+Cliente: Trycore S.A.S.
+
+Descripción                         Cant.   Valor
+Licencias de software anual            1    $ 12.500.000
+Soporte técnico mensual                3    $  1.800.000
+
+Subtotal: $ 14.300.000
+IVA 19%:  $  2.717.000
+TOTAL A PAGAR: $ 17.017.000

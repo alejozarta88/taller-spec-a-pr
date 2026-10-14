@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": ["Bash(node --test)", "Bash(node --test:*)", "Bash(node verificar-spec.mjs:*)", "Bash(git status)", "Bash(git diff:*)"],
+    "ask": ["Bash(git commit:*)"],
+    "deny": ["Edit(./facturas/**)", "Write(./facturas/**)", "Bash(npm install:*)", "Bash(rm -rf:*)"]
+  }
+}
